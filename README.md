@@ -18,5 +18,5 @@ This project is developed solely for educational purposes as part of a college a
 
 <hr style="border: 0; border-top: 2px solid; margin-top: 20px;">
 <p align="center" style="font-size: 16px; color: #fff; font-family: sans-serif;">
-  This system is developed by <strong>Redjan Visitacion</strong> for educational and demonstration purposes.
+  This system is developed by <strong>Lester Bulay</strong> for educational and demonstration purposes.
 </p>
