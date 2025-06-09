@@ -1,0 +1,68 @@
+[12-May-2025 19:55:28 Asia/Manila] Check-in: 2025-05-15 07:00 | Parsed: 2025-05-15 07:00:00 | Window: 2025-05-15 07:00:00 - 2025-05-15 08:30:00
+[12-May-2025 19:56:22 Asia/Manila] Check-in: 2025-05-15 13:00 | Parsed: 2025-05-15 13:00:00 | Window: 2025-05-15 13:00:00 - 2025-05-15 17:00:00
+[12-May-2025 20:17:00 Asia/Manila] Check-in: 2025-05-15 13:00 | Parsed: 2025-05-15 13:00:00 | Window: 2025-05-15 13:00:00 - 2025-05-15 17:00:00
+[12-May-2025 20:28:58 Asia/Manila] Check-in: 2025-05-12 13:00 | Parsed: 2025-05-12 13:00:00 | Window: 2025-05-12 13:00:00 - 2025-05-12 17:00:00
+[13-May-2025 14:57:25 Asia/Manila] Check-in: 2025-05-12 07:00 | Parsed: 2025-05-12 07:00:00 | Window: 2025-05-12 07:00:00 - 2025-05-12 08:30:00
+[14-May-2025 00:28:28 Asia/Manila] Check-in: 2025-05-12 07:00 | Parsed: 2025-05-12 07:00:00 | Window: 2025-05-12 07:00:00 - 2025-05-12 08:30:00
+[14-May-2025 13:28:56 Asia/Manila] Check-in: 2025-05-14 07:00 | Parsed: 2025-05-14 07:00:00 | Window: 2025-05-14 07:00:00 - 2025-05-14 08:30:00
+[21-May-2025 23:02:28 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:31 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:33 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:33 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:33 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:34 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:34 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:34 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:38 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:39 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:39 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:40 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:40 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:40 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:44 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:44 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[21-May-2025 23:02:48 Asia/Manila] Check-in: 2025-05-21 07:02 | Parsed: 2025-05-21 07:02:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:02:48 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[21-May-2025 23:04:41 Asia/Manila] Check-in: 2025-05-21 07:00 | Parsed: 2025-05-21 07:00:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:04:41 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[21-May-2025 23:04:45 Asia/Manila] Check-in: 2025-05-21 07:00 | Parsed: 2025-05-21 07:00:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[21-May-2025 23:04:45 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[21-May-2025 23:06:03 Asia/Manila] Check-in: 2025-05-21 07:00 | Parsed: 2025-05-21 07:00:00 | Window: 2025-05-21 07:00:00 - 2025-05-21 08:30:00
+[22-May-2025 13:14:10 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:14:10 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:14:14 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:14:14 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:14:18 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:14:18 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:14:22 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:14:22 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:14:37 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:14:37 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:15:14 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:15:14 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:15:33 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:15:33 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:15:57 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:15:57 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:16:01 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:16:01 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:16:04 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:16:04 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:17:14 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:17:14 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:17:51 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:17:51 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:17:56 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:17:56 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:18:00 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:18:00 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:18:46 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:18:46 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:18:50 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:18:50 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:20:37 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:20:37 Asia/Manila] Error in AttendanceCreate.php: Table 'societree.attendance' doesn't exist
+[22-May-2025 13:22:13 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:24:18 Asia/Manila] Check-in: 2025-05-19 13:00 | Parsed: 2025-05-19 13:00:00 | Window: 2025-05-19 13:00:00 - 2025-05-19 17:00:00
+[22-May-2025 13:26:59 Asia/Manila] Check-in: 2025-05-19 07:00 | Parsed: 2025-05-19 07:00:00 | Window: 2025-05-19 07:00:00 - 2025-05-19 08:30:00
+[22-May-2025 13:28:22 Asia/Manila] Check-in: 2025-05-20 07:00 | Parsed: 2025-05-20 07:00:00 | Window: 2025-05-20 07:00:00 - 2025-05-20 08:30:00

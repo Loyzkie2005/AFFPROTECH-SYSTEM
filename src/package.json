@@ -1,0 +1,16 @@
+{
+  "name": "affrotech-project",
+  "version": "1.0.0",
+  "main": "Admin.js",
+  "dependencies": {
+    "bootstrap": "^5.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
