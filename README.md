@@ -8,7 +8,7 @@ This project is developed solely for educational purposes as part of a college a
 
 <!--Logo-->
 <div align="center">
-  <img class="Head Logo" src="img/icon.png" alt="Logo" style="max-width: 200px; margin-top: 20px;">
+  <img class="Head Logo" src="img/logo.jpg" alt="Logo" style=" border-radius: 50%; max-width: 200px; margin-top: 20px;">
 </div>
 
 <!-- Footer-->
