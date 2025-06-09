@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function () {
         sidebarLinks.forEach(l => l.classList.remove('active'));
         link.classList.add('active');
     }
-
+ 
     let sidebarTransitioning = false;
     let sidebarToggleHandler = null;
 
