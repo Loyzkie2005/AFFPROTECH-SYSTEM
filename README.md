@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-  <span style="color: navy; font-weight: bold;">DISCLAIMER</span>
+  <span style="color: navy; font-weight: bold;">⚠️DISCLAIMER⚠️</span>
 </h1>
 
 <p align="center" style="font-size: 25px; font-family: sans-serif; color: #fff;">
