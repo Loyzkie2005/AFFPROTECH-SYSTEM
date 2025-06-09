@@ -13,7 +13,7 @@ This project is developed solely for educational purposes as part of a college a
 
 <!-- Footer-->
 <p align="center" style="font-size: 14px; color: #fff; font-family:, sans-serif;">
-  &copy; <strong>Lester Bulay</strong> 2025 All rights reserved.
+  &copy; <strong>Lester Bulay</strong><br> 2025 All rights reserved.
 </p>
 
 <hr style="border: 0; border-top: 2px solid; margin-top: 20px;">
